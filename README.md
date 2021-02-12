@@ -2,7 +2,7 @@
  
 The program receives all http proxies of the type
 
-To run, you need the following components:
++ To run, you need the following components:
 - - Python 3 and its libraries:
 
 ```py
